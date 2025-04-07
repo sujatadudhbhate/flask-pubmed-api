@@ -1,4 +1,5 @@
 # PubMed Paper Fetcher
+author=sujata
 
 A command-line tool to fetch research papers from PubMed based on a user-specified query, identifying papers with at least one author affiliated with a pharmaceutical or biotech company.
 
